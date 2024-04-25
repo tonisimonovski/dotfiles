@@ -1,0 +1,19 @@
+SndioOut Info: ---------- sndout.ctor ----------
+PulseOut::PulseOut() called
+AlsaOut::AlsaOut() called
+AlsaOut: destructor
+AlsaOut: joining...
+AlsaOut: thread finished
+AlsaOut: closing device...
+AlsaOut: destroyed.
+SndioOut Info: joining thread
+[2024-04-25 19:30:09] [info] asio async_connect error: asio.system:111 (Connection refused)
+[2024-04-25 19:30:09] [info] Error getting remote endpoint: asio.system:107 (Transport endpoint is not connected)
+[2024-04-25 19:30:09] [error] handle_connect error: Connection refused
+SndioOut Info: device handle initialized
+SndioOut Info: closing
+SndioOut Info: thread finished
+[mp3float @ 0x7fc774016780] Could not update timestamps for skipped samples.
+[2024-04-25 19:31:39] [error] handle_read_frame error: websocketpp.transport:7 (End of File)
+PulseOut: destroy
+PulseOut: destructor
