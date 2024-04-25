@@ -1,0 +1,42 @@
+import:
+  - ~/.config/alacritty/catppuccin-macchiato.yml
+
+env:
+  TERM: alacritty
+
+window:
+  dynamic_title: true
+  padding:
+    x: 8
+    y: 8
+  decorations: none
+  dynamic_padding: false
+  title: Alacritty
+  class:
+    instance: Alacritty
+    general: Alacritty
+  gtk_theme_variant: None
+  opacity: 0.5
+
+scrolling:
+  history: 10000
+  multiplier: 2
+
+font:
+  normal:
+    family: Cascadia Mono PL
+    style: Regular
+  size: 14
+  offset:
+    x: -1
+    y: -1
+  glyph_offset:
+    x: 0
+    y: 0
+draw_bold_text_with_bright_colors: false
+
+cursor:
+  style: Underline
+  unfocused_hollow: false
+
+live_config_reload: true
