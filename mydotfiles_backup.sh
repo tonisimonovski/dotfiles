@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define variables
-backup_dir="$HOME/tsimonovski_backup"
+backup_dir="$HOME/mydotfiles_backup"
 dotfiles=".* *.sh *.md *.txt *.jpeg *.html"
 hidden_folders=".config .themes scripts"
 
