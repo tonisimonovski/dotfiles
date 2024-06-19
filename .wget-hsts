@@ -1,10 +1,10 @@
 # HSTS 1.0 Known Hosts database for GNU Wget.
 # Edit at your own risk.
 # <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
-dist.torproject.org	0	0	1714378473	15768000
+codeload.github.com	0	0	1712946281	31536000
 raw.githubusercontent.com	0	0	1714482476	31536000
 gitlab.com	0	0	1712950039	31536000
 www.python.org	0	1	1714084059	63072000
 www.torproject.org	0	0	1714378473	15768000
-github.com	0	1	1712946281	31536000
-codeload.github.com	0	0	1712946281	31536000
+github.com	0	1	1718795537	31536000
+dist.torproject.org	0	0	1714378473	15768000

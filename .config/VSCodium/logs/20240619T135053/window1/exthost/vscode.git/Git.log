@@ -1,0 +1,126 @@
+2024-06-19 13:50:56.662 [info] Log level: Info
+2024-06-19 13:50:56.662 [info] Validating found git in: "git"
+2024-06-19 13:50:56.662 [info] Using git "2.39.2" from "git"
+2024-06-19 13:50:56.662 [info] > git rev-parse --show-toplevel [10ms]
+2024-06-19 13:50:56.662 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-19 13:52:30.707 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-19 13:52:30.707 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-19 13:53:54.535 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-19 13:54:04.419 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-19 13:54:04.419 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-19 13:54:11.593 [info] > git rev-parse --show-toplevel [3ms]
+2024-06-19 13:54:13.018 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-19 13:54:13.018 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-19 13:54:14.000 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-19 13:54:14.974 [info] > git rev-parse --show-toplevel [3ms]
+2024-06-19 13:54:14.974 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-19 13:54:51.714 [info] Log level: Info
+2024-06-19 13:54:51.714 [info] Validating found git in: "git"
+2024-06-19 13:54:51.714 [info] Using git "2.39.2" from "git"
+2024-06-19 13:54:51.714 [info] > git rev-parse --show-toplevel [10ms]
+2024-06-19 13:54:51.714 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-19 13:54:51.747 [info] > git rev-parse --show-toplevel [27ms]
+2024-06-19 13:54:51.747 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-19 13:54:51.770 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-19 13:54:51.770 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-19 13:54:51.779 [info] > git rev-parse --show-toplevel [3ms]
+2024-06-19 13:54:51.779 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-19 13:54:51.791 [info] > git rev-parse --show-toplevel [5ms]
+2024-06-19 13:54:51.791 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-19 13:54:51.797 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-19 13:54:51.797 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-19 13:54:51.806 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-19 13:54:51.806 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-19 13:54:51.813 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-19 13:54:51.813 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-19 13:54:51.822 [info] > git rev-parse --show-toplevel [4ms]
+2024-06-19 13:54:51.822 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-19 13:54:51.853 [info] > git rev-parse --show-toplevel [7ms]
+2024-06-19 13:54:51.853 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-19 13:54:51.864 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-19 13:54:51.864 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-19 13:54:51.876 [info] > git rev-parse --show-toplevel [3ms]
+2024-06-19 13:54:51.876 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-19 13:54:51.886 [info] > git rev-parse --show-toplevel [3ms]
+2024-06-19 13:54:51.887 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-19 13:54:51.896 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-19 13:54:51.896 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-19 13:54:51.905 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-19 13:54:51.905 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-19 13:54:51.915 [info] > git rev-parse --show-toplevel [3ms]
+2024-06-19 13:54:51.915 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-19 13:54:51.927 [info] > git rev-parse --show-toplevel [3ms]
+2024-06-19 13:54:51.927 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-19 13:54:51.938 [info] > git rev-parse --show-toplevel [4ms]
+2024-06-19 13:54:51.938 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-19 13:54:51.945 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-19 13:54:51.946 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-19 13:54:51.955 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-19 13:54:51.955 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-19 13:54:51.962 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-19 13:54:51.962 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-19 13:54:51.971 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-19 13:54:51.971 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-19 13:54:51.979 [info] > git rev-parse --show-toplevel [3ms]
+2024-06-19 13:54:51.979 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-19 13:54:53.320 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-19 13:54:53.320 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-19 13:55:46.996 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-19 13:55:47.005 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-06-19 13:55:47.024 [info] Open repository: /home/toni/Documents/GitHub/Backup-dotfiles-in-Bookworm
+2024-06-19 13:55:47.052 [info] > git config --get commit.template [10ms]
+2024-06-19 13:55:47.053 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-19 13:55:47.053 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-19 13:55:47.071 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-06-19 13:55:47.089 [warning] ENOENT: no such file or directory, open '/home/toni/Documents/GitHub/Backup-dotfiles-in-Bookworm/.git/refs/remotes/origin/main'
+2024-06-19 13:55:47.096 [info] > git rev-parse refs/remotes/origin/main [7ms]
+2024-06-19 13:55:47.104 [info] > git status -z -uall [3ms]
+2024-06-19 13:55:47.125 [info] > git merge-base refs/heads/main refs/remotes/origin/main [14ms]
+2024-06-19 13:55:47.137 [info] > git config --get commit.template [14ms]
+2024-06-19 13:55:47.149 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-06-19 13:55:47.157 [warning] ENOENT: no such file or directory, open '/home/toni/Documents/GitHub/Backup-dotfiles-in-Bookworm/.git/refs/remotes/origin/main'
+2024-06-19 13:55:47.158 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [26ms]
+2024-06-19 13:55:47.167 [info] > git rev-parse refs/remotes/origin/main [10ms]
+2024-06-19 13:55:47.173 [info] > git diff --name-status -z --diff-filter=ADMR ad86cf51550002184f56533d22eaa59b7337daed...refs/remotes/origin/main [7ms]
+2024-06-19 13:55:47.175 [info] > git status -z -uall [4ms]
+2024-06-19 13:55:57.649 [info] > git rev-parse --show-toplevel [14ms]
+2024-06-19 13:55:57.649 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-19 13:56:05.813 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-19 13:56:05.821 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-06-19 13:56:05.826 [info] Open repository: /home/toni/Documents/GitHub/dotfiles
+2024-06-19 13:56:05.835 [info] > git config --get commit.template [2ms]
+2024-06-19 13:56:05.842 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-06-19 13:56:05.878 [info] > git status -z -uall [30ms]
+2024-06-19 13:56:05.896 [info] > git merge-base refs/heads/main refs/remotes/origin/main [11ms]
+2024-06-19 13:56:05.907 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [6ms]
+2024-06-19 13:56:05.912 [info] > git config --get commit.template [17ms]
+2024-06-19 13:56:05.916 [info] > git diff --name-status -z --diff-filter=ADMR 93ce258cbc03eb687da923e7d44916024b549141...refs/remotes/origin/main [4ms]
+2024-06-19 13:56:05.926 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-06-19 13:56:05.958 [info] > git status -z -uall [27ms]
+2024-06-19 13:56:06.345 [info] > git show --textconv :mydotfiles_backup.sh [29ms]
+2024-06-19 13:56:06.357 [info] > git ls-files --stage -- /home/toni/Documents/GitHub/dotfiles/mydotfiles_backup.sh [15ms]
+2024-06-19 13:56:06.375 [info] > git cat-file -s 7d292adf3ca6cd189783d6ba9ea5a580ace50050 [5ms]
+2024-06-19 13:56:06.536 [info] > git check-ignore -v -z --stdin [17ms]
+2024-06-19 13:56:15.316 [info] > git show --textconv :mydotfiles_backup.sh [18ms]
+2024-06-19 13:56:15.325 [info] > git ls-files --stage -- /home/toni/Documents/GitHub/dotfiles/mydotfiles_backup.sh [11ms]
+2024-06-19 13:56:15.344 [info] > git cat-file -s 7d292adf3ca6cd189783d6ba9ea5a580ace50050 [7ms]
+2024-06-19 13:56:39.309 [info] > git rev-parse --show-toplevel [3ms]
+2024-06-19 13:56:39.309 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-19 13:56:44.008 [info] > git show --textconv :mydotfiles_backup.sh [24ms]
+2024-06-19 13:56:44.020 [info] > git ls-files --stage -- /home/toni/Documents/GitHub/dotfiles/mydotfiles_backup.sh [15ms]
+2024-06-19 13:56:44.037 [info] > git cat-file -s 7d292adf3ca6cd189783d6ba9ea5a580ace50050 [4ms]
+2024-06-19 13:56:44.362 [info] > git check-ignore -v -z --stdin [13ms]
+2024-06-19 13:56:46.737 [info] > git rev-parse --show-toplevel [5ms]
+2024-06-19 13:56:46.737 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-19 13:56:50.024 [info] > git show --textconv :mydotfiles_backup.sh [6ms]
+2024-06-19 13:56:50.026 [info] > git ls-files --stage -- /home/toni/Documents/GitHub/dotfiles/mydotfiles_backup.sh [3ms]
+2024-06-19 13:56:50.033 [info] > git cat-file -s 7d292adf3ca6cd189783d6ba9ea5a580ace50050 [2ms]
+2024-06-19 13:56:52.828 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-19 13:56:52.828 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-19 13:57:09.569 [info] > git show --textconv :mydotfiles_backup.sh [9ms]
+2024-06-19 13:57:09.571 [info] > git ls-files --stage -- /home/toni/Documents/GitHub/dotfiles/mydotfiles_backup.sh [3ms]
+2024-06-19 13:57:09.577 [info] > git cat-file -s 7d292adf3ca6cd189783d6ba9ea5a580ace50050 [2ms]
+2024-06-19 13:57:51.127 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-19 13:57:51.127 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-19 13:58:21.395 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-19 13:58:21.395 [info] fatal: not a git repository (or any of the parent directories): .git

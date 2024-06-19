@@ -42,3 +42,94 @@
 2024-06-19T11:17:25.637Z - info: [ui] [AppStore] adding repository at /home/toni/Documents/GitHub/dotfiles to store
 2024-06-19T11:17:26.267Z - info: [ui] [BranchPruner] No branches to prune.
 2024-06-19T11:17:52.809Z - info: [main] opening in browser: https://github.com/tonisimonovski/dotfiles
+2024-06-19T11:22:30.674Z - info: [ui] [BranchPruner] Last prune took place 5 minutes ago - skipping
+2024-06-19T11:22:35.211Z - info: [ui] [BranchPruner] Last prune took place 5 minutes ago - skipping
+2024-06-19T11:22:38.262Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: dotfiles - tonisimonovski (has token)
+2024-06-19T11:23:05.453Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: dotfiles - tonisimonovski (has token)
+2024-06-19T11:24:30.039Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: dotfiles - tonisimonovski (has token)
+2024-06-19T11:24:48.113Z - info: [ui] [BranchPruner] Last prune took place 7 minutes ago - skipping
+2024-06-19T11:25:06.581Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: dotfiles - tonisimonovski (has token)
+2024-06-19T11:25:39.854Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: dotfiles - tonisimonovski (has token)
+2024-06-19T11:33:07.256Z - info: [ui] [AppStore] loading 2 repositories from store
+2024-06-19T11:33:07.267Z - info: [ui] [AppStore] found account: tonisimonovski (tonisimonovski)
+2024-06-19T11:33:07.323Z - info: [ui] [BranchPruner] Last prune took place 16 minutes ago - skipping
+2024-06-19T11:33:08.094Z - info: [ui] Subscribed 'tonisimonovski' to Alive channel
+2024-06-19T11:33:08.359Z - info: [ui] launching: 3.2.1-linux1 (Linux 6.1.0-21-amd64)
+2024-06-19T11:33:08.360Z - info: [ui] execPath: '/usr/lib/github-desktop/github-desktop'
+2024-06-19T11:33:08.788Z - info: [ui] Stats reported.
+2024-06-19T11:37:42.744Z - info: [ui] [AppStore] loading 2 repositories from store
+2024-06-19T11:37:42.753Z - info: [ui] [AppStore] found account: tonisimonovski (tonisimonovski)
+2024-06-19T11:37:42.800Z - info: [ui] [BranchPruner] Last prune took place 20 minutes ago - skipping
+2024-06-19T11:37:43.613Z - info: [ui] Subscribed 'tonisimonovski' to Alive channel
+2024-06-19T11:37:43.818Z - info: [ui] launching: 3.2.1-linux1 (Linux 6.1.0-21-amd64)
+2024-06-19T11:37:43.820Z - info: [ui] execPath: '/usr/lib/github-desktop/github-desktop'
+2024-06-19T11:38:21.475Z - info: [ui] Executing updateIndex: git update-index --add --remove --replace -z --stdin (took 5.641s)
+2024-06-19T11:38:21.796Z - info: [ui] [Timing] Action 'create commit' for 'tonisimonovski/dotfiles' took 6.381s
+2024-06-19T11:38:23.682Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: dotfiles - tonisimonovski (has token)
+2024-06-19T11:38:50.664Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 26.959s)
+2024-06-19T11:39:03.380Z - info: [main] opening in browser: https://github.com/tonisimonovski/dotfiles
+2024-06-19T11:39:42.033Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: dotfiles - tonisimonovski (has token)
+2024-06-19T11:39:46.770Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 0.1s of which 0.0s paused, total 0.1s
+2024-06-19T11:40:38.992Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/tonisimonovski/Backup-dotfiles-in-Bookworm.git - tonisimonovski (has token)
+2024-06-19T11:40:40.063Z - info: [ui] Executing clone: git -c credential.helper= -c init.defaultBranch=main clone --recursive --progress -- https://github.com/tonisimonovski/Backup-dotfiles-in-Bookworm.git /home/toni/Documents/GitHub/Backup-dotfiles-in-Bookworm (took 1.065s)
+2024-06-19T11:40:40.085Z - info: [ui] [AppStore] adding repository at /home/toni/Documents/GitHub/Backup-dotfiles-in-Bookworm to store
+2024-06-19T11:40:40.723Z - info: [ui] [BranchPruner] No branches to prune.
+2024-06-19T11:42:42.188Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/tonisimonovski/I3wm-setup-bookworm.git - tonisimonovski (has token)
+2024-06-19T11:42:43.106Z - info: [ui] [AppStore] adding repository at /home/toni/Documents/GitHub/I3wm-setup-bookworm to store
+2024-06-19T11:42:43.339Z - info: [ui] [BranchPruner] Last prune took place 2 minutes ago - skipping
+2024-06-19T11:42:43.798Z - info: [ui] [BranchPruner] No branches to prune.
+2024-06-19T11:42:56.977Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/tonisimonovski/Install-KVM-in-Bookworm.git - tonisimonovski (has token)
+2024-06-19T11:42:57.840Z - info: [ui] [AppStore] adding repository at /home/toni/Documents/GitHub/Install-KVM-in-Bookworm to store
+2024-06-19T11:42:58.142Z - info: [ui] [BranchPruner] Last prune took place 14 seconds ago - skipping
+2024-06-19T11:42:58.577Z - info: [ui] [BranchPruner] No branches to prune.
+2024-06-19T11:43:07.654Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/tonisimonovski/Install-Librewolf-in-Bookworm.git - tonisimonovski (has token)
+2024-06-19T11:43:08.494Z - info: [ui] [AppStore] adding repository at /home/toni/Documents/GitHub/Install-Librewolf-in-Bookworm to store
+2024-06-19T11:43:08.785Z - info: [ui] [BranchPruner] Last prune took place 10 seconds ago - skipping
+2024-06-19T11:43:09.252Z - info: [ui] [BranchPruner] No branches to prune.
+2024-06-19T11:43:12.815Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/tonisimonovski/Install-Signal-in-Bookworm.git - tonisimonovski (has token)
+2024-06-19T11:43:13.645Z - info: [ui] [AppStore] adding repository at /home/toni/Documents/GitHub/Install-Signal-in-Bookworm to store
+2024-06-19T11:43:13.944Z - info: [ui] [BranchPruner] Last prune took place 5 seconds ago - skipping
+2024-06-19T11:43:14.385Z - info: [ui] [BranchPruner] No branches to prune.
+2024-06-19T11:43:19.017Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/tonisimonovski/Install-VSCodium-in-Bookworm.git - tonisimonovski (has token)
+2024-06-19T11:43:19.981Z - info: [ui] [AppStore] adding repository at /home/toni/Documents/GitHub/Install-VSCodium-in-Bookworm to store
+2024-06-19T11:43:20.230Z - info: [ui] [BranchPruner] Last prune took place 6 seconds ago - skipping
+2024-06-19T11:43:20.678Z - info: [ui] [BranchPruner] No branches to prune.
+2024-06-19T11:44:20.636Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/tonisimonovski/Install-Veracrypt-in-Bookworm.git - tonisimonovski (has token)
+2024-06-19T11:44:21.515Z - info: [ui] [AppStore] adding repository at /home/toni/Documents/GitHub/Install-Veracrypt-in-Bookworm to store
+2024-06-19T11:44:21.803Z - info: [ui] [BranchPruner] Last prune took place 1 minute ago - skipping
+2024-06-19T11:44:22.259Z - info: [ui] [BranchPruner] No branches to prune.
+2024-06-19T11:44:48.317Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/tonisimonovski/KeePassXC.git - tonisimonovski (has token)
+2024-06-19T11:44:49.251Z - info: [ui] [AppStore] adding repository at /home/toni/Documents/GitHub/KeePassXC to store
+2024-06-19T11:44:49.531Z - info: [ui] [BranchPruner] Last prune took place 27 seconds ago - skipping
+2024-06-19T11:44:49.987Z - info: [ui] [BranchPruner] No branches to prune.
+2024-06-19T11:44:56.524Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/tonisimonovski/Linux-current-installed-video-drivers-check.git - tonisimonovski (has token)
+2024-06-19T11:44:57.693Z - info: [ui] Executing clone: git -c credential.helper= -c init.defaultBranch=main clone --recursive --progress -- https://github.com/tonisimonovski/Linux-current-installed-video-drivers-check.git /home/toni/Documents/GitHub/Linux-current-installed-video-drivers-check (took 1.118s)
+2024-06-19T11:44:57.729Z - info: [ui] [AppStore] adding repository at /home/toni/Documents/GitHub/Linux-current-installed-video-drivers-check to store
+2024-06-19T11:44:58.047Z - info: [ui] [BranchPruner] Last prune took place 8 seconds ago - skipping
+2024-06-19T11:44:58.506Z - info: [ui] [BranchPruner] No branches to prune.
+2024-06-19T11:45:02.639Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/tonisimonovski/Minimal-X11-Bookworm.git - tonisimonovski (has token)
+2024-06-19T11:45:03.864Z - info: [ui] Executing clone: git -c credential.helper= -c init.defaultBranch=main clone --recursive --progress -- https://github.com/tonisimonovski/Minimal-X11-Bookworm.git /home/toni/Documents/GitHub/Minimal-X11-Bookworm (took 1.167s)
+2024-06-19T11:45:03.878Z - info: [ui] [AppStore] adding repository at /home/toni/Documents/GitHub/Minimal-X11-Bookworm to store
+2024-06-19T11:45:04.136Z - info: [ui] [BranchPruner] Last prune took place 6 seconds ago - skipping
+2024-06-19T11:45:04.564Z - info: [ui] [BranchPruner] No branches to prune.
+2024-06-19T11:45:08.698Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/tonisimonovski/automatically-startx-after-login.git - tonisimonovski (has token)
+2024-06-19T11:45:09.785Z - info: [ui] [AppStore] adding repository at /home/toni/Documents/GitHub/automatically-startx-after-login to store
+2024-06-19T11:45:10.113Z - info: [ui] [BranchPruner] Last prune took place 6 seconds ago - skipping
+2024-06-19T11:45:10.573Z - info: [ui] [BranchPruner] No branches to prune.
+2024-06-19T11:45:22.933Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/tonisimonovski/bookmarks.git - tonisimonovski (has token)
+2024-06-19T11:45:24.219Z - info: [ui] Executing clone: git -c credential.helper= -c init.defaultBranch=main clone --recursive --progress -- https://github.com/tonisimonovski/bookmarks.git /home/toni/Documents/GitHub/bookmarks (took 1.214s)
+2024-06-19T11:45:24.253Z - info: [ui] [AppStore] adding repository at /home/toni/Documents/GitHub/bookmarks to store
+2024-06-19T11:45:24.509Z - info: [ui] [BranchPruner] Last prune took place 14 seconds ago - skipping
+2024-06-19T11:45:24.975Z - info: [ui] [BranchPruner] No branches to prune.
+2024-06-19T11:45:31.388Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/tonisimonovski/firewall--christitus.git - tonisimonovski (has token)
+2024-06-19T11:45:32.477Z - info: [ui] Executing clone: git -c credential.helper= -c init.defaultBranch=main clone --recursive --progress -- https://github.com/tonisimonovski/firewall--christitus.git /home/toni/Documents/GitHub/firewall--christitus (took 1.054s)
+2024-06-19T11:45:32.519Z - info: [ui] [AppStore] adding repository at /home/toni/Documents/GitHub/firewall--christitus to store
+2024-06-19T11:45:32.792Z - info: [ui] [BranchPruner] Last prune took place 8 seconds ago - skipping
+2024-06-19T11:45:33.304Z - info: [ui] [BranchPruner] No branches to prune.
+2024-06-19T11:46:43.664Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 70.074s)
+2024-06-19T11:47:03.487Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: firewall--christitus - tonisimonovski (has token)
+2024-06-19T11:47:10.895Z - info: [ui] [BranchPruner] Last prune took place 30 minutes ago - skipping
+2024-06-19T11:47:12.284Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: dotfiles - tonisimonovski (has token)
+2024-06-19T11:47:27.095Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: dotfiles - tonisimonovski (has token)
+2024-06-19T11:47:35.724Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: dotfiles - tonisimonovski (has token)
+2024-06-19T11:48:15.979Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: dotfiles - tonisimonovski (has token)

@@ -116,9 +116,9 @@ fi  # This line is added to close the if statement
 alias apt='nala'
 
 #auto startX script
-if [[ -z $DISPLAY ]] && [[ $(tty) = /dev/tty1 ]]; then
-startx
-fi
+# if [[ -z $DISPLAY ]] && [[ $(tty) = /dev/tty1 ]]; then
+# startx
+# fi
 
 # Aliases
 # alias alias_name="command_to_run"

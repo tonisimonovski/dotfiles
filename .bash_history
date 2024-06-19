@@ -1932,3 +1932,52 @@ exit
 xinput
 sudo xinput set-prop "SynPS/2 Synaptics TouchPad" "libinput Tapping Enabled" 1
 sudo reboot now
+sudo apt install tlp tlp-rdw
+sudo apt -t Bookworm-backports install tlp tlp-rdw
+sudo apt -t bookworm-backports install tlp tlp-rdw
+lsb
+uname
+cat /etc/os-release
+sudo apt -t bookworm-backports install tlp tlp-rdw
+cat /etc/apt/sources.list
+sudo nano /etc/apt/sources.list
+sudo apt update
+sudo apt upgrade
+apt install tlp tlp-rdw
+sudo apt install tlp tlp-rdw
+tlp-rdw
+sudo apt install tlp tlp-rdw
+sudo systemctl status tlp
+sudo tlp start
+sudo tlp stat -s
+sudo tlp-stat -s
+sudo tlp-stat -c
+sudo ./mydotfiles_backup
+./mydotfiles_backup
+./mydotfiles_backup.sh
+reboot now
+sudo reboot now
+startx
+exit
+sudo reboot now
+startx
+toni
+sudo shutdown -h
+sudo shutdown -now
+sudo shutdown -n
+sudo shutdown
+sudo halt
+startx
+sudo halt -n
+sudo shutdown -now
+sudo shutdown -h
+wget https://github.com/shiftkey/desktop/releases/download/release-3.2.1-linux1/GitHubDesktop-linux-3.2.1-linux1.deb
+ls
+sudo dpkg -i GitHubDesktop-linux-3.2.1-linux1.deb 
+GitHubDesktop
+./mydotfiles_backup
+./mydotfiles_backup.sh
+sudo ./mydotfiles_backup.sh
+./mydotfiles_backup.sh
+sudo chmod +x mydotfiles_backup.sh
+./mydotfiles_backup.sh

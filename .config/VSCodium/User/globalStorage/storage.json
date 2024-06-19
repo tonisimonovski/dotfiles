@@ -2,9 +2,13 @@
     "userDataProfilesMigration": true,
     "profileAssociations": {
         "workspaces": {
+            "file:///home/toni/Documents/GitHub/dotfiles": "__default__profile__",
+            "file:///home/toni/Documents/GitHub/dotes": "__default__profile__",
             "file:///home/toni": "__default__profile__"
         },
-        "emptyWindows": {}
+        "emptyWindows": {
+            "1718797854934": "__default__profile__"
+        }
     },
     "profileAssociationsMigration": true,
     "telemetry.sqmId": "",
@@ -16,7 +20,11 @@
                 "folderUri": "file:///home/toni"
             }
         ],
-        "emptyWindows": []
+        "emptyWindows": [
+            {
+                "backupFolder": "1718797854934"
+            }
+        ]
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -73,7 +81,51 @@
                                     "label": "/home/toni"
                                 },
                                 {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/toni/Documents/GitHub/dotes",
+                                        "path": "/home/toni/Documents/GitHub/dotes",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/GitHub/dotes"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/toni/Documents/GitHub/dotfiles",
+                                        "path": "/home/toni/Documents/GitHub/dotfiles",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/GitHub/dotfiles"
+                                },
+                                {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/toni/mydotfiles_backup.sh",
+                                        "path": "/home/toni/mydotfiles_backup.sh",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/mydotfiles_backup.sh"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/toni/Documents/GitHub/dotfiles/mydotfiles_backup.sh",
+                                        "path": "/home/toni/Documents/GitHub/dotfiles/mydotfiles_backup.sh",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/GitHub/dotfiles/mydotfiles_backup.sh"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -164,28 +216,6 @@
                                     "label": "~/Documents/i3wm-install-alpine.sh"
                                 },
                                 {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/toni/scripts/change-wallpaper.sh",
-                                        "path": "/home/toni/scripts/change-wallpaper.sh",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/scripts/change-wallpaper.sh"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/toni/backup.conf",
-                                        "path": "/home/toni/backup.conf",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/backup.conf"
-                                },
-                                {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
@@ -243,6 +273,13 @@
                         "label": "Share",
                         "submenu": {
                             "items": [
+                                {
+                                    "id": "github.copyVscodeDevLinkFile",
+                                    "label": "Copy vscode.dev Link"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
                                 {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)..."
@@ -891,8 +928,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -901,8 +937,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"

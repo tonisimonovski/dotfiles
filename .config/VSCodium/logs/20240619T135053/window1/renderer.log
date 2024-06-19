@@ -1,0 +1,5 @@
+2024-06-19 13:50:54.764 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/toni/mydotfiles_backup.sh","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2024-06-19 13:50:55.367 [info] Started local extension host with pid 14982.
+2024-06-19 13:50:58.298 [info] [perf] Render performance baseline is 52ms
+2024-06-19 13:54:50.771 [info] Started local extension host with pid 15575.
+2024-06-19 13:54:54.322 [info] [perf] Render performance baseline is 72ms

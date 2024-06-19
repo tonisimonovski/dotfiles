@@ -1,2 +1,3 @@
-2024/06/19-13:13:19.323 fee Creating DB /home/toni/.config/GitHub Desktop/IndexedDB/file__0.indexeddb.leveldb since it was missing.
-2024/06/19-13:13:19.331 fee Reusing MANIFEST /home/toni/.config/GitHub Desktop/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2024/06/19-13:37:42.718 1e85 Reusing MANIFEST /home/toni/.config/GitHub Desktop/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2024/06/19-13:37:42.718 1e85 Recovering log #3
+2024/06/19-13:37:42.720 1e85 Reusing old log /home/toni/.config/GitHub Desktop/IndexedDB/file__0.indexeddb.leveldb/000003.log 
