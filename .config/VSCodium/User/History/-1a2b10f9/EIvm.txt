@@ -1,0 +1,14 @@
+// Download a YouTube video/playlist as mp3 or any audio format
+
+// Single File
+yt-dlp --no-part -x --audio-format mp3 -o "%(title)s.%(ext)s" https://youtu.be/dQw4w9WgXcQ
+// Playlist
+yt-dlp --no-part -x --yes-playlist --audio-format mp3 -o "%(title)s.%(ext)s" https://www.youtube.com/playlist?list=PLu4wnki9NI_8VmJ7Qz_byhKwCquXcy6u9
+
+
+// Download a YouTube video/playlist as a video file.
+
+// Single File
+yt-dlp -S "height:1080" https://youtu.be/dQw4w9WgXcQ
+// Playlist
+yt-dlp --no-part -S "height:1080" --yes-playlist --playlist-items 1-100 --output "%(playlist_index)s-%(title)s.%(ext)s" https://www.youtube.com/playlist?list=PLu4wnki9NI_8VmJ7Qz_byhKwCquXcy6u9

@@ -1,0 +1,33 @@
+[Default Applications]
+text/plain=codium.desktop
+application/x-shellscript=codium.desktop
+text/markdown=codium.desktop
+image/jpeg=org.gnome.eog.desktop
+image/vnd.dwg=org.gnome.eog.desktop
+image/png=org.gnome.eog.desktop
+video/mp4=vlc.desktop
+image/avif=org.gnome.eog.desktop
+image/gif=org.gnome.eog.desktop
+audio/mpeg=org.gnome.Rhythmbox3.desktop
+application/xml=codium.desktop
+image/webp=org.gnome.eog.desktop
+application/octet-stream=org.gnome.Evince.desktop
+x-scheme-handler/viber=viber.desktop
+
+[Added Associations]
+text/plain=org.gnome.Evince.desktop;codium.desktop;
+application/x-shellscript=org.gnome.Evince.desktop;firefox-esr.desktop;codium.desktop;
+text/markdown=firefox-esr.desktop;org.kde.kwrite.desktop;codium.desktop;
+image/vnd.dwg=org.gnome.eog.desktop;
+image/png=org.gnome.eog.desktop;
+video/mp4=vlc.desktop;
+image/avif=org.gnome.eog.desktop;
+image/gif=org.gnome.eog.desktop;
+audio/mpeg=org.gnome.Rhythmbox3.desktop;
+application/xml=codium.desktop;
+application/pdf=org.gnome.Evince.desktop;
+inode/directory=org.gnome.FileRoller.desktop;
+application/x-mozilla-bookmarks=codium.desktop;
+image/webp=org.gnome.eog.desktop;
+application/octet-stream=org.gnome.Evince.desktop;
+video/webm=vlc.desktop;

@@ -1,0 +1,46 @@
+[00:58:23] gtkgui: HandBrake 1.6.1 (2023012900) - Linux x86_64 - https://handbrake.fr
+[00:58:23] Compile-time hardening features are enabled
+[00:58:23] hb_display_init: attempting VA driver 'iHD'
+libva info: VA-API version 1.17.0
+libva info: User environment variable requested driver 'iHD'
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_17
+libva info: va_openDriver() returns 0
+[00:58:23] hb_display_init: using VA driver 'iHD'
+libva info: VA-API version 1.17.0
+libva info: User environment variable requested driver 'iHD'
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_17
+libva info: va_openDriver() returns 0
+[00:58:23] qsv: is available on this system
+Cannot load libnvidia-encode.so.1
+[00:58:23] hb_init: starting libhb thread
+[00:58:23] hb_init: starting libhb thread
+[00:58:23] hb_init: starting libhb thread
+[00:59:39] CPU: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+[00:59:39]  - Intel microarchitecture Tiger Lake
+[00:59:39]  - logical processor count: 4
+[00:59:39] Intel Quick Sync Video support: no
+[00:59:39] hb_scan: path=/home/toni/Music/Garavi Sokak/Garavi Sokak - Kompilacija najlepsih pesama (1.deo) .webm, title_index=0
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:333: failed opening UDF image /home/toni/Music/Garavi Sokak/Garavi Sokak - Kompilacija najlepsih pesama (1.deo) .webm
+disc.c:437: error opening file BDMV/index.bdmv
+disc.c:437: error opening file BDMV/BACKUP/index.bdmv
+[00:59:39] bd: not a bd - trying as a stream/file instead
+libdvdread: DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdnav: vm: vm: failed to read VIDEO_TS.IFO
+[00:59:39] dvd: not a dvd - trying as a stream/file instead
+Input #0, matroska,webm, from '/home/toni/Music/Garavi Sokak/Garavi Sokak - Kompilacija najlepsih pesama (1.deo) .webm':
+  Metadata:
+    ENCODER         : Lavf59.27.100
+  Duration: 01:03:11.70, start: -0.007000, bitrate: 737 kb/s
+  Stream #0:0(eng): Video: vp9 (Profile 0), yuv420p(tv, bt709), 1920x1080, SAR 1:1 DAR 16:9, 30 fps, 30 tbr, 1k tbn (default)
+    Metadata:
+      DURATION        : 01:03:11.666000000
+  Stream #0:1(eng): Audio: opus, 48000 Hz, stereo, fltp (default)
+    Metadata:
+      DURATION        : 01:03:11.701000000
+[00:59:39] scan: decoding previews for title 1
+[00:59:39] scan: audio 0x1: opus, rate=48000Hz, bitrate=1 English (Opus) (2.0 ch)
+[00:59:39] scan: 10 previews, 1920x1080, 30.000 fps, autocrop = 0/0/0/0, aspect 16:9, PAR 1:1, color profile: 1-1-1, chroma location: unspecified
+[00:59:39] libhb: scan thread found 1 valid title(s)

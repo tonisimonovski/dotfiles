@@ -1,0 +1,191 @@
+Xsession: X session started for toni at Wed Jun 19 11:39:05 AM CEST 2024
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/toni/.Xauthority
+localuser:toni being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+unable to find device ELAN1200:00 04F3:309F Touchpad
+/bin/sh: 1: i3-battery-popup: not found
+[ 06/19/2024 11:39:05.453 get_cfg WARN ] Dual-kawase blur is not implemented by the legacy backends, you must use the `experimental-backends` option.
+Failure: No such entity
+[000055fdbd5e5550] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+i3status: trying to auto-detect output_format setting
+i3status: auto-detection: parent process is "sh", looking at its parent
+i3status: auto-detected "i3bar"
+Gtk-Message: 11:39:05.700: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 11:39:05.701: Failed to load module "colorreload-gtk-module"
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+[ 06/19/2024 11:39:05.940 init_render WARN ] Old backends only support blur method "kernel". Your blur setting will not be applied
+Gtk-Message: 11:39:05.962: Failed to load module "colorreload-gtk-module"
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+Gtk-Message: 11:39:06.054: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 11:39:06.150: Failed to load module "colorreload-gtk-module"
+blueman-applet 11.39.06 WARNING  PluginManager:151 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 11.39.06 WARNING  PluginManager:151 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 11.39.06 WARNING  PluginManager:151 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 11.39.06 WARNING  PluginManager:151 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Gtk-Message: 11:39:06.397: Failed to load module "colorreload-gtk-module"
+[000055fdbd685e10] main playlist: playlist is empty
+Gtk-Message: 11:39:06.798: Failed to load module "colorreload-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+Xlib: ignoring invalid extension event 161
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+i3status: Cannot read temperature. Verify that you have a thermal zone in /sys/class/thermal or disable the cpu_temperature module in your i3status config.
+[libi3] ../i3bar/src/main.c i3bar version 4.22 (2023-01-02)
+[libi3] ../libi3/font.c Using Pango font Droid Sans Mono, size 11
+The X11 connection broke: I/O error (code 1)
+XIO:  fatal IO error 22 (Invalid argument) on X server ":0"
+      after 397 requests (395 known processed) with 0 events remaining.

@@ -1,0 +1,73 @@
+How To Download A YouTube Playlist And Convert It To MP3 Using or yt-dlp (Command Line)
+
+To download an entire YouTube playlist (must not be private) using the best available
+audio format, extract the audio, and convert the resulting files to 160K MP3, use (this
+is a single command, triple left-click to select the entire command) using youtube-dl:
+
+yt-dlp --ignore-errors --format bestaudio --extract-audio --audio-format mp3 --audio-quality 160K --output "%(title)s.% (ext)s" --yes-playlist '<YouTube playlist URL>'
+
+
+Command explanation:
+···
+ --ignore-errors makes youtube-dl / yt-dlp continue in case of errors, for example
+to skip videos from a playlist that were removed, or that are not available in your country
+ --format bestaudio downloads the best available audio quality format
+ --extract-audio as the name implies, it extracts the audio from the video
+ --audio-format mp3 specifies the audio format - mp3 in this case
+ --audio-quality 160K specifies the audio quality that will be used by
+ffmpeg/avconv when converting to mp3 in this case. You can specify an exact bitrate,
+like 128K, 160K, etc., or a VBR quality value between 0 (best) and 9 (worst), with 5
+being default. So use "0" for best possible quality, but note that if the original quality is
+low, using "0" for the audio quality will cause an unnecessarily large file (which is not
+actually of high quality, since the source was low in quality). You could omit specifying
+the audio quality, in which case youtube-dl / yt-dlp will use the default "5" VBR quality
+ --output "%(title)s.%(ext)s" represents the output filename template; in this
+case, it sets the filenames to be in the "video title.mp3" format. Without this (by default),
+youtube-dl /yt-dlp adds the video ID after the video name, which is not exactly pretty or
+useful in most cases
+ --yes-playlist makes it so if the URL refers to a video and a playlist, it still
+downloads the whole playlist. This is useful because if you find a playlist on YouTube,
+click on a video from that playlist, then copy the URL and try to use youtube-dl / yt-dlp to
+download it without --yes-playlist , only one video will be downloaded, instead of
+the entire playlist. This makes it so that in such cases, the entire playlist is still
+downloaded.
+ '<YouTube playlist URL>' is the URL to the YouTube playlist you want to
+download. You'll need to replace this with the actual YouTube playlist URL. Add
+single quotes on Linux and double quotes on Windows to avoid running into issues in
+some cases (as an example, if you skip the quotes, even when using the --yes-
+playlist option if the video URL includes a "&" symbol, only one video is
+downloaded).
+
+
+Example #1 - download a YouTube playlist and convert it to the highest available quality
+.mp3 (for yt-dlp, simply replace youtube-dl with yt-dlp in the command below):
+
+yt-dlp --ignore-errors --format bestaudio --extract-audio --audio-format mp3 --audio-quality 160K --output "%(title)s.% (ext)s" --yes-playlist 
+'https://www.youtube.com/list=PLdYwhvDpx0FI2cmiSVn5cMufHjYHpo_88'
+
+Example #2 - download a YouTube playlist and convert it to the highest available quality
+.mp3, even when the link is to both a YouTube video AND a YouTube playlist (this works
+thanks to --yes-playlist and the fact that we've used single quotes around the
+YouTube URL; for yt-dlp, simply replace youtube-dl with yt-dlp in the command
+below):
+
+yt-dlp --ignore-errors --format bestaudio --extract-audio --audio-format mp3 --audio-quality 160K --output "%(title)s.% (ext)s" --yes-playlist 
+'https://www.youtube.com/watch?v=PsO6ZnUZI0g&list=PLdYwhvDpx0FI2cmiSVn5cMufHjYHpo_88'
+
+Want to only download part of a YouTube playlist? Use --playlist-start NUMBER
+to specify the start number and --playlist-end NUMBER to specify the end number of
+videos to download. For example, to download video 5 to 10 from a YouTube playlist, use
+--playlist-start 5 and --playlist-end 10 , like this (for yt-dlp, simply replace
+youtube-dl with yt-dlp in the command below):
+
+yt-dlp --ignore-errors --format bestaudio --extract-audio --audio-format mp3 --audio-quality 160K --output "%(title)s.% (ext)s" --yes-playlist --playlist-start 5 --playlist-end 10 '<YouTube playlist URL>'
+
+But what if you don't have a regular YouTube playlist to download, but instead you have a
+text file with links to YouTube videos? You can download all the YouTube links in a text 
+file by using --batch-file="/path/to/playlist.txt" instead of '<YouTube
+playlist URL>' (for yt-dlp, simply replace youtube-dl with yt-dlp in the
+command below):
+
+yt-dlp --ignore-errors --format bestaudio --extract-audio --audio-format mp3 --audio-quality 160K --output "%(title)s.% (ext)s" --batch-file="/path/to/playlist.txt"
+
+Replace /path/to/playlist.txt with the path and name of the text file containing the YouTube video links.

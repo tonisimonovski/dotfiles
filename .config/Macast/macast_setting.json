@@ -1,0 +1,16 @@
+{
+    "Additional_Interfaces": [],
+    "ApplicationPort": 37833,
+    "Blocked_Interfaces": [],
+    "CheckUpdate": 1,
+    "DLNA_FriendlyName": "Macast(debian)",
+    "Macast_Protocol": "DLNA Protocol",
+    "Macast_Renderer": "MPV Renderer",
+    "MenubarIcon": 0,
+    "PlayerHW": 1,
+    "PlayerOntop": 1,
+    "PlayerPosition": 2,
+    "PlayerSize": 1,
+    "StartAtLogin": 0,
+    "USN": "fb13ca8b-c6c0-47a7-b7df-a895fff27920"
+}

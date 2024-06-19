@@ -1,0 +1,21 @@
+2024-06-19 13:17:59.040 [info] Log level: Info
+2024-06-19 13:17:59.040 [info] Validating found git in: "git"
+2024-06-19 13:17:59.040 [info] Using git "2.39.2" from "git"
+2024-06-19 13:17:59.040 [info] > git rev-parse --show-toplevel [12ms]
+2024-06-19 13:17:59.041 [info] > git rev-parse --git-dir --git-common-dir [12ms]
+2024-06-19 13:17:59.070 [info] Open repository: /home/toni/Documents/GitHub/dotfiles
+2024-06-19 13:17:59.093 [info] > git config --get commit.template [9ms]
+2024-06-19 13:17:59.104 [info] > git rev-parse --show-toplevel [14ms]
+2024-06-19 13:17:59.106 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2024-06-19 13:17:59.112 [warning] ENOENT: no such file or directory, open '/home/toni/Documents/GitHub/dotfiles/.git/refs/remotes/origin/main'
+2024-06-19 13:17:59.123 [info] > git rev-parse refs/remotes/origin/main [11ms]
+2024-06-19 13:17:59.173 [info] > git status -z -uall [41ms]
+2024-06-19 13:17:59.204 [info] > git merge-base refs/heads/main refs/remotes/origin/main [24ms]
+2024-06-19 13:17:59.221 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [10ms]
+2024-06-19 13:17:59.230 [info] > git config --get commit.template [34ms]
+2024-06-19 13:17:59.238 [info] > git diff --name-status -z --diff-filter=ADMR 4ebfa66c0b88303582a04a116520e8805b4fe5bf...refs/remotes/origin/main [9ms]
+2024-06-19 13:17:59.240 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-06-19 13:17:59.245 [warning] ENOENT: no such file or directory, open '/home/toni/Documents/GitHub/dotfiles/.git/refs/remotes/origin/main'
+2024-06-19 13:17:59.247 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-06-19 13:17:59.316 [info] > git status -z -uall [63ms]
+2024-06-19 13:17:59.705 [info] > git check-ignore -v -z --stdin [3ms]

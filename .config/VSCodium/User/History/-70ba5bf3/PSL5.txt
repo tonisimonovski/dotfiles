@@ -1,0 +1,12 @@
+
+
+You need rofi -show drun
+
+My complete Rofi section:
+
+
+
+
+
+
+

@@ -1,0 +1,13 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10c5d36269000171351931100000014010002
+count=1
+program1=firefox
+restartCommand1=/usr/lib/firefox-esr/firefox-esr,--sm-client-id,10c5d36269000171351931100000014010002
+restartStyleHint1=0
+userId1=toni

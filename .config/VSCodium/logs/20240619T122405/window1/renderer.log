@@ -1,0 +1,4 @@
+2024-06-19 12:24:07.800 [info] Started local extension host with pid 2434.
+2024-06-19 12:24:10.827 [info] [perf] Render performance baseline is 44ms
+2024-06-19 12:24:19.175 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/toni/.config/VSCodium/logs/20240612T114744' failed: No such file or directory (EUNKNOWN) (path: /home/toni)
+2024-06-19 12:24:19.178 [error] [File Watcher (universal)] restarting watcher from error in watch request (retrying request): inotify_add_watch on '/home/toni/.config/VSCodium/logs/20240612T114744' failed: No such file or directory ({"path":"/home/toni","excludes":["**/.git/objects/**","**/.git/subtree-cache/**","**/node_modules/*/**","**/.hg/store/**"],"recursive":true})
